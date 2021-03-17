@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Just something to share ...",
+      "body": "Hi, this is me, have built this small project in a couple of days.\nhow is it? ",
+      "author": "Rumi",
+      "id": 1
+    }
+  ]
+}
