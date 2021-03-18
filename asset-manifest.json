@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Simple-Blog_With-React/static/css/main.47053f70.chunk.css",
+    "main.js": "/Simple-Blog_With-React/static/js/main.e943f6ca.chunk.js",
+    "main.js.map": "/Simple-Blog_With-React/static/js/main.e943f6ca.chunk.js.map",
+    "runtime-main.js": "/Simple-Blog_With-React/static/js/runtime-main.04e87fd1.js",
+    "runtime-main.js.map": "/Simple-Blog_With-React/static/js/runtime-main.04e87fd1.js.map",
+    "static/js/2.7e675644.chunk.js": "/Simple-Blog_With-React/static/js/2.7e675644.chunk.js",
+    "static/js/2.7e675644.chunk.js.map": "/Simple-Blog_With-React/static/js/2.7e675644.chunk.js.map",
+    "static/js/3.073316e7.chunk.js": "/Simple-Blog_With-React/static/js/3.073316e7.chunk.js",
+    "static/js/3.073316e7.chunk.js.map": "/Simple-Blog_With-React/static/js/3.073316e7.chunk.js.map",
+    "index.html": "/Simple-Blog_With-React/index.html",
+    "static/css/main.47053f70.chunk.css.map": "/Simple-Blog_With-React/static/css/main.47053f70.chunk.css.map",
+    "static/js/2.7e675644.chunk.js.LICENSE.txt": "/Simple-Blog_With-React/static/js/2.7e675644.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04e87fd1.js",
+    "static/js/2.7e675644.chunk.js",
+    "static/css/main.47053f70.chunk.css",
+    "static/js/main.e943f6ca.chunk.js"
+  ]
+}
